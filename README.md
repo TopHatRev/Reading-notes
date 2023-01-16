@@ -31,4 +31,4 @@ Growth mindset is a way of thinking which enhances your capacity to learn, by ta
 [Portfolio](https://github.com/TopHatRev)
 
 
-[Page 2](https://tophatrev.github.io/reading-notes/Class-02)
+[Page 2](https://tophatrev.github.io/Reading-notes/class-02)
