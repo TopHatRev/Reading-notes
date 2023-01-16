@@ -24,4 +24,4 @@ Now that we've refreshed our eyes, let's look at some links.
 
 Maybe a link to some a great education opportunity?
 
-[Maybe you'll prefer this.](https://techeducators.co.uk ":D")
+*[Maybe you'll prefer this.](https://techeducators.co.uk ":D")*
