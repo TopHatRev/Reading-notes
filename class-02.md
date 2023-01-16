@@ -21,3 +21,7 @@ I'm going to put a horizontal rule here for a change in scenery.
 Now that we've refreshed our eyes, let's look at some links.
 
 [Click here to buy a better laptop.](https://www.microsoft.com/EN-GB/store/collections/Laptops?ICID=SSM_Search_Promo_Devices_Laptops_CTA1 "Stop using Apple you filthy animals.")
+
+Maybe a link to some a great education opportunity?
+
+[Maybe you'll prefer this.](https://techeducators.co.uk ":D")
