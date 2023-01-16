@@ -29,3 +29,7 @@ Maybe a link to some a great education opportunity?
 Or this.
 
 **[Great Example](https://github.com/Wollivan "Familiar?")**
+
+- [x] Unnecessarily breaking the fourth wall.
+- [x] Getting 2 points (Hopefully)
+- [x] Learning something.
