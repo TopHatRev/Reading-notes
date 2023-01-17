@@ -1,6 +1,4 @@
-# tophatrev.github.io
-
-## Reading-notes
+# Reading-notes
 
 ### Growth Mindset
 
