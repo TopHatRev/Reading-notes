@@ -1,5 +1,3 @@
-# tophatrev.github.io
-
 # Home Page
 
 ## What is this site?
