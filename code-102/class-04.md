@@ -37,3 +37,6 @@ Some tools for wire framing may include:
 
 ## [Semantic](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)  
 
+## [HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)  
+
+
