@@ -1,34 +1,17 @@
-## Reading-notes
+# tophatrev.github.io
 
-Hello my name is Dylan, I am a student learning to code, I enjoy cooking, music and technology.
+# Home Page
 
-This is my reading notes for the full stack bootcamp where I became a wizard of code.
+## What is this site?
 
-### Growth Mindset
+This site is a storage page for my various class notes.  
 
-Growth mindset is a way of thinking which enhances your capacity to learn, by taking challenges and obstacles in your stride rather than giving up or getting frustrated.
+### Who am I?
 
-#### How to keep a Growth Mindset
+My name is Dylan, I am an aspiring web developer currently undergoing training, this is my notes page.
 
-> If you find yourself to be frustrated, remind yourself that every challenge is an opportunity to learn.
-
-> Set a routine for yourself and try your best to stick to in, routine can help relax your mind.
-
-> Remember that you aren't expected to know everything right away, questions and Google are your friend.
-
-### Using Markdown to style looks as follows:
-
-* An unordered list item.
-
-~~Strike through.~~
-
-*Italics*
-
-**Bold Italics**
-
-## Important Links
+## Table of Contents
 
 [Portfolio](https://github.com/TopHatRev)
 
-
-[Page 2](https://tophatrev.github.io/Reading-notes/class-02)
+[Page Two](https://github.com/TopHatRev/Reading-notes/blob/main/code-102/class-02.md)
