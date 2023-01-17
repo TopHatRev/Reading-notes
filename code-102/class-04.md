@@ -12,4 +12,14 @@ Some tools for wire framing may include:
 
 * [InVision](https://invisionapp.com)  
 
-* [Wireframecc](https://wireframe.cc)
+* [Wireframecc](https://wireframe.cc)  
+
+### Wire framing has numerous important steps.  
+
+* Research, sell to your audience, not to your preference. Look at examples of successful modern websites and try and make your designs timeless.
+
+
+
+
+
+## [Wireframing Guide](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
