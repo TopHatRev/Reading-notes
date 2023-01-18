@@ -1,34 +1,89 @@
-## Reading-notes
+# Home Page
 
-Hello my name is Dylan, I am a student learning to code, I enjoy cooking, music and technology.
+## What is this site?
 
-This is my reading notes for the full stack bootcamp where I became a wizard of code.
+This site is a storage page for my various class notes.  
 
-### Growth Mindset
+### Who am I?
 
-Growth mindset is a way of thinking which enhances your capacity to learn, by taking challenges and obstacles in your stride rather than giving up or getting frustrated.
+My name is Dylan, I am an aspiring web developer currently undergoing training, this is my notes page.
 
-#### How to keep a Growth Mindset
-
-> If you find yourself to be frustrated, remind yourself that every challenge is an opportunity to learn.
-
-> Set a routine for yourself and try your best to stick to in, routine can help relax your mind.
-
-> Remember that you aren't expected to know everything right away, questions and Google are your friend.
-
-### Using Markdown to style looks as follows:
-
-* An unordered list item.
-
-~~Strike through.~~
-
-*Italics*
-
-**Bold Italics**
-
-## Important Links
+## Table of Contents  
 
 [Portfolio](https://github.com/TopHatRev)
 
+### Code-102
 
-[Page 2](https://tophatrev.github.io/Reading-notes/class-02)
+
+[Class One](https://github.com/TopHatRev/Reading-notes/blob/main/code-102/class-01.md)  
+
+
+[Class Two](https://github.com/TopHatRev/Reading-notes/blob/main/code-102/class-02.md)  
+
+
+[Class Three](https://github.com/TopHatRev/Reading-notes/blob/main/code-102/class-03.md)  
+
+
+[Class Four](https://github.com/TopHatRev/Reading-notes/blob/main/code-102/class-04.md)  
+
+
+[Class Five](https://github.com/TopHatRev/Reading-notes/blob/main/code-102/class-05.md)  
+
+
+[Class Six](https://github.com/TopHatRev/Reading-notes/blob/main/code-102/class-06.md)  
+
+
+[Class Seven](https://github.com/TopHatRev/Reading-notes/blob/main/code-102/class-07.md)  
+
+
+[Class Eight](https://github.com/TopHatRev/Reading-notes/blob/main/code-102/class-08.md)  
+
+### Code-201
+
+[Class One](https://github.com/TopHatRev/Reading-notes/blob/main/code-201/class-01.md)  
+
+
+[Class Two](https://github.com/TopHatRev/Reading-notes/blob/main/code-201/class-02.md)  
+
+
+[Class Three](https://github.com/TopHatRev/Reading-notes/blob/main/code-201/class-03.md)  
+
+
+[Class Four](https://github.com/TopHatRev/Reading-notes/blob/main/code-201/class-04.md)  
+
+
+[Class Five](https://github.com/TopHatRev/Reading-notes/blob/main/code-201/class-05.md)  
+
+
+[Class Six](https://github.com/TopHatRev/Reading-notes/blob/main/code-201/class-06.md)  
+
+
+[Class Seven](https://github.com/TopHatRev/Reading-notes/blob/main/code-201/class-07.md)  
+
+
+[Class Eight](https://github.com/TopHatRev/Reading-notes/blob/main/code-201/class-08.md)  
+
+
+[Class Nine](https://github.com/TopHatRev/Reading-notes/blob/main/code-201/class-09.md)  
+
+
+[Class Ten](https://github.com/TopHatRev/Reading-notes/blob/main/code-201/class-10.md)  
+
+
+[Class Eleven](https://github.com/TopHatRev/Reading-notes/blob/main/code-201/class-11.md)  
+
+
+[Class Twelve](https://github.com/TopHatRev/Reading-notes/blob/main/code-201/class-12.md) 
+
+
+[Class Thirteen](https://github.com/TopHatRev/Reading-notes/blob/main/code-201/class-13.md) 
+
+
+[Class Fourteen](https://github.com/TopHatRev/Reading-notes/blob/main/code-201/class-14.md) 
+
+
+[Class Fifteen](https://github.com/TopHatRev/Reading-notes/blob/main/code-201/class-15.md) 
+
+
+
+
